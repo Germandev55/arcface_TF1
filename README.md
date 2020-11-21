@@ -1,5 +1,8 @@
 # arcface_TF1
- 
+оригинал - https://github.com/luckycallor/InsightFace-tensorflow 
+
+претренерованную модельску скачать тут https://drive.google.com/file/d/107Qu56o1IwQxH61Q6smZk-DO2-xU6EwE/view
+
 перепилена первоначальная работа с img (было на старой версии сайкитлёрна, теперь на матплотлибе и пиллоу
 
 запуск:
